@@ -130,4 +130,7 @@ dmypy.json
 
 
 # ours
-test_ignore.txt
+src/fairseq
+src/model_dir
+src/diffwave.png
+src/wav2vec_small.pt
